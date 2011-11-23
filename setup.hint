@@ -1,4 +1,4 @@
 category: Gnome
-requires: gnome-control-panel gnome-settings-daemon libcairo2 libcanberra-gtk3_0 libcanberra0 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk3_0 libintl8 libnotify4 libX11_6 libXss1
+requires: gnome-settings-daemon libcairo2 libcanberra-gtk3_0 libcanberra0 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk3_0 libintl8 libnotify4 libX11_6 libXss1
 sdesc: "GNOME typing break"
 ldesc: "GNOME typing break"
