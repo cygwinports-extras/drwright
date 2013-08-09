@@ -1,0 +1,11 @@
+GIT_REV=939c97c
+inherit gnome2 git
+
+NAME="drwright"
+VERSION=3.7.0
+RELEASE=1
+CATEGORY="GNOME"
+SUMMARY="GNOME typing break"
+DESCRIPTION="GNOME typing break"
+
+KEEP_LA_FILES="none"
